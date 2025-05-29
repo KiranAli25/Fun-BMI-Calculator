@@ -24,4 +24,4 @@ Welcome to the **Fun BMI Calculator**, where calculating your Body Mass Index (B
 ## 🚀 Getting Started
 - Clone the repository:  
   ```bash
-  git clone https://github.com/KiranAli25/Fun-BMI-Calculator.git
+  git clone https://kiranali25.github.io/Fun-BMI-Calculator/
